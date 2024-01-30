@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/45-grupe-coming-soon/
+Site published at: https://github.com/AinaEin/48_grupe_coming_soon
 
 Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
@@ -49,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/45-grupe-ufo.git
+    git clone https://github.com/AinaEin/48_grupe_coming_soon
     ```
 2. Install NPM packages
     ```sh
@@ -70,7 +70,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Aina: [Github](https://github.com/AinaEin)
 
 ## ⚠️ License
 
