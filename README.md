@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/AinaEin/48_grupe_coming_soon
+Site published at:  https://ainaein.github.io/48_grupe_coming_soon/
 
 Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
