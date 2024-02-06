@@ -107,11 +107,11 @@ footer.container {
 }
 
 .socials > a {
-    width: 2.5rem;
-    height: 2.5rem;
-    color: #fff;
+    width: 2.4em;
+    height: 2.4em;
     font-size: 1.25rem;
-    line-height: 2.5rem;
+    line-height: 2.4em;
+    color: #fff;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
