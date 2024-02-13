@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="./css/clock.css">
     <link rel="stylesheet" href="./css/progress-bar.css">
     <link rel="stylesheet" href="./css/mouse.css">
+    <link rel="stylesheet" href="./css/form.css">
     <!-- custom -->
     <link rel="stylesheet" href="./css/main.css">
 </head>
@@ -49,7 +50,14 @@
                         <div class="value">39</div>
                         <div class="label">Seconds</div>
                     </div>
-                </div>  
+                </div>
+                <form class="form form-sub">
+                    <div class="form-row">
+                        <label for="subscribe-email">Email</label>
+                        <input name="email" id="subscribe-email" type="email" placeholder="Your email here">
+                    </div>
+                    <button  class="btn" type="submit">Subscribe Now!</button>
+                </form>
                 <div class="mouse"></div>
             </div>
         </section>
@@ -62,7 +70,7 @@
                         adipisicing elit. Natus aperiam aut modi, 
                         impedit fugit maxime, alias, nostrum 
                         pariatur et tempora <a href="#">Matrox</a> officia iste? 
-                        Veniam sapiente, saepe nemo beatae ut numquam.</p>
+                        Veniam sapiente, saepe nemo beatae ut numquam.</p>   
                     <div class="progress-bar-group">
                         <div class="progress-bar">
                             <div class="top">
@@ -95,11 +103,24 @@
                 </div>
                 <div class="column short">
                     <h2 class="section-title">Have any question</h2>
-                    <p class="section-description">Lorem ipsum dolor, sit amet consectetur 
-                        adipisicing elit. Reprehenderit molestias 
-                        veritatis doloremque modi debitis. Quod cum fugiat delectus
-                        enim nulla <a href="#">trendytheme.net@gmail.com</a> vel molestias quas 
+                    <p class="section-description">Lorem ipsum dolor, adipisicing elit. Quod cum fugiat
+                        enim <a href="#">trendytheme.net@gmail.com</a> vel molestias quas 
                         ex iusto. Veniam delectus unde fuga rem?</p>
+                    <form class="form form-message">
+                        <div class="form-row">
+                            <label for="name">Name</label>
+                            <input name="name" id="name" type="text" placeholder="Your name here">
+                        </div>
+                        <div class="form-row">
+                            <label for="email">Email</label>
+                            <input name="email" id="email" type="email" placeholder="Your email here">
+                        </div>
+                        <div class="form-row">
+                            <label for="text">Message</label>
+                            <textarea name="text" id="text" placeholder="Your message here"></textarea> 
+                        </div>
+                        <button class="btn" type="submit">Send message</button>
+                    </form>
                 </div>
             </div>
         </section>
@@ -124,4 +145,4 @@
     <a href="#" class="btn btn-icon back-to-top fa fa-angle-up"></a>
 </body>
 
-</html>a
+</html>
